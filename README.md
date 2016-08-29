@@ -1,2 +1,4 @@
-# explore-kubernetes
-scratch kubernetes step by by
+# scratch kubernetes step by step
+
+
+
