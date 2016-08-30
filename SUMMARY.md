@@ -1,4 +1,5 @@
 * [Introduction](README.md)
+* [Setup Scratch Environment](environment.md)
 * [Classical Way](classical-way.md)
 * [Get Started Docker](get-started-docker.md)
 * [Docker Networking](docker-networking.md)
