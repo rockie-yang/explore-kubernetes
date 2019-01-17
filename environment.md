@@ -1,4 +1,5 @@
-# Setup Environment
+
+# Setup Environment - this method is DEPRECATED by kubernetes
 
 ## Install Vagrant
 
